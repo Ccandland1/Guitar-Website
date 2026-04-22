@@ -1,0 +1,57 @@
+/* GENERAL PAGE STYLE */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: lightblue;
+  margin: 0;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 30px;
+}
+
+/* MAIN CONTENT BLOCK */
+.content {
+  width: 70%;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* IMAGE STYLE */
+.image {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  height: auto;
+}
+
+/* VIDEO SECTION */
+.video {
+  text-align: center;
+  margin: 30px 0;
+}
+
+/* LINKS */
+.link {
+  display: block;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  margin: 40px 0;
+}
+
+/* SPACER */
+.spacer {
+  height: 100px;
+}
